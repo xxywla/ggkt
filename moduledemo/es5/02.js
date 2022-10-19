@@ -1,0 +1,5 @@
+const m = require('./01.js')
+const res1 = m.sum(1, 8)
+const res2 = m.subtract(1, 2)
+console.log(res1)
+console.log(res2)
